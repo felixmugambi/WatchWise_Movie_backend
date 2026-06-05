@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Database
+db.sqlite3
+
+# Django
+staticfiles/
+media/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node
+node_modules/
+
+# Expo / React Native
+.expo/
+dist/
+web-build/
+
+# Build artifacts
+build/
+*.apk
+*.aab
